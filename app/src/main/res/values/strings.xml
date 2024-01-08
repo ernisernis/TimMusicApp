@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TimMusicApp</string>
+    <string name="topbar_icon_description_1">Left Icon</string>
+    <string name="topbar_icon_description_2">Right Icon</string>
+    <string name="icon_description_1">Enter</string>
+    <string name="icon_description_2">Music image</string>
+    <string name="music_state_save">Save music</string>
+    <string name="music_state_delete">Delete music</string>
+    <string name="category_state_loading">Loading…</string>
+    <string name="category_state_memory">Memory</string>
+    <string name="category_state_filesystem">Filesystem</string>
+    <string name="category_state_error">Error</string>
+    <string name="component_title_1">Storage</string>
+    <string name="component_item_title_1">Memory</string>
+    <string name="component_item_title_2">Filesystem</string>
+    <string name="category_error_1">Category not found</string>
+</resources>
